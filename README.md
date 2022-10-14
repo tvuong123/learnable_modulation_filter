@@ -1,4 +1,4 @@
-# Learnable modulation spectrogram - SUBMITTED INTERSPEECH 2022
+# Learnable modulation spectrogram - IEEE SLT 2022
 
 MORE DETAILS AND CODE CLEAN UP WILL BE ADDED LATER!
 
